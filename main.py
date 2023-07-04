@@ -11,3 +11,9 @@ import Queue
 print()
 print("QueueLinkedList:")
 import QueueLinkedList
+print()
+print("LinkedList:")
+import LinkedList
+print()
+print("LinkedList2:")
+import LinkedList2
